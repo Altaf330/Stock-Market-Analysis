@@ -39,11 +39,39 @@ In the initial data preparation phase, we performed the following tasks:
 ## Exploratory Data Analysis
 
 1. Average Daily Trading Volume
+
+![KPI_01 IMAGE](https://github.com/Altaf330/Stock-Market-Analysis/assets/168121021/9e8ecc81-0a32-4e84-863f-4ff1964166bc)
+
+ 
+
 2. Most Volatile Stocks
+ 
+![KPI_02](https://github.com/Altaf330/Stock-Market-Analysis/assets/168121021/d7865a04-d8e5-4cf8-b61e-5d064233484f)
+
+
+
 3. Stocks with Highest Dividend and Lowest Dividend
+
+![KPI_03 IMAGE](https://github.com/Altaf330/Stock-Market-Analysis/assets/168121021/263544a7-34b9-41bb-91e9-13a1a7491cff)
+   
+
+
 4. Highest and Lowest P/E Ratios
+
+![KPI_04 IMAGE](https://github.com/Altaf330/Stock-Market-Analysis/assets/168121021/f3e32566-5bd8-4f8a-9547-611c31cba63f)
+
+
+
 5. Stocks with Highest Market Cap
+
+![KPI_05 IMAGE](https://github.com/Altaf330/Stock-Market-Analysis/assets/168121021/98f436a5-7a7b-4c86-8f31-1ac363fcb31a)
+
+
+
 6. Stocks with Strong Buy Signals and stocks with Strong Selling Signal
+
+![KPI_05' IMAGE](https://github.com/Altaf330/Stock-Market-Analysis/assets/168121021/4f6e6b3a-2205-411f-9a01-09ae5c60c814)
+
 
 ## Results and Findings
 
